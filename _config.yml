@@ -1,3 +1,5 @@
 markdown: redcarpet
 basaeurl: /EiT-forste-forsoek
 exclude: ['README.md']
+permalink: pretty
+future: true

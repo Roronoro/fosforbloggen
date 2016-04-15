@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Fosforbloggen</title>
-	<meta name="viuwport" content="width=device-width, initial-scale=1" charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="{{site.github.url}}/public/css/w3css.css">
 	<style>
 	html,body,h1,h2,h3,h4,h5 { font-family: "Raleway, sans-serif}
@@ -14,33 +14,10 @@
 <!-- HEADER -->
 {% include header.html %}
 
-<!-- GRID -->
+{{content}}
 
-<div class="w3-row">
-
-<!-- BLOG ENTRIES -->
-<div class="w3-col 18 s12" >
-	<!-- Blog entry -->
-	{% for post in site.posts %}
-	<div class="w3-card-4 w3-margin w3-white">
-		<img src="{{site.github.url}}/assets/{{post.fremsidebilde}}" alt="Eutrofiering" style="width:100%">
-		<img src="https://github.com/Roronoro/assets/{{post.fremsidebilde}}" alt="Eutrofiering" style="width:100%">
-		<div class="w3-container w3-padding-hor-8">
-			<h3><b>{{post.title}}</b></h3>
-			<h5>{{post.description}}, <span class="w3-opacity">{{post.dato}}</span></h5>
-		</div>
-		<div class="w3-container">
-			<p>{{post.ingress}}</p>
-			<div class="w3-row">
-				<div class="w3-col m8 s12">
-					<p><button class="w3-btn w3-padding-large w3-white w3-border w3-hover-border-black"><b>Les mer</b></button></p>
-				</div>
-				<hr>
-			</div>
-		</div>
-	</div>{% endfor %}
-</div>
-	
+<!-- FOOTER -->
+{% include footer.html %}
 
 </body>
 </html>
