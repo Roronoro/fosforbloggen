@@ -1,0 +1,3 @@
+markdown: redcarpet
+basaeurl: /EiT-forste-forsoek
+exclude: ['README.md']
