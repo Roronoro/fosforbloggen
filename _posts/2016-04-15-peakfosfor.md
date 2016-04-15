@@ -35,7 +35,7 @@ Det er et mål i vårt samfunn at alle skal ha muligheten til å være helter. D
 Kineserne var de første til å bruke menneskelige ekskrementer som gjødsel (Cordell, Drangert et al. 2009) japanerne fulgte etter fra det tolvte århundre. I Europa på 16 og 1700 tallet førte degradering av jordsmonnet og stadige hungersnøder til at det ble brukt andre fosforkilder i tillegg til møkk fra mennesker og dyr. England importerte blant annet beinrester fra kontinentet (Cordell, Drangert et al. 2009). I 1840 ble det vitenskapelig forstått at næringsstoffer som nitrogen, fosfor og kalium var hva som sirkulerte mellom dødt og levende materiale. Dette var på samme tid som det skjedde stor urbanisering med gjødselfabrikker omkringliggende byene for å omgjøre menneskelige ekskrementer og annet organisk avfall om til gjødsel. Man begynte etter hvert å utvinne gjødsel fra guana, en forstenet form for fugleskit fra øyer rundt Peru og Sør-stillehavet (Cordell, Drangert et al. 2009). På 1900 tallet ble det utviklet metoder for å lage NPK gjødsel fra fosfatstein. Dette er hovedsakelig ulike former for apatitt (fosforitt). Ressursen ble da sett på som uendelig.
 
 
-<img src="{{site.github.url}}/assets/Produksjon.PNG", alt ="bilde av fosforproduksjon" style="float:right; margin: 20px; width: 500px; height: auto;">
+<!-- <img src="{{site.github.url}}/assets/Produksjon.PNG", alt ="bilde av fosforproduksjon" style="float:right; margin: 20px; width: 500px; height: auto;"> -->
 
 Apatitt forekommer i små mengder i de fleste bergarter (SNL). Fosfor er regnet som det 11 mest forekomne grunnstoffet i jordskorpen (Walan, Davidsson et al. 2014) og det 13 i havet. Problemet er å utvinne stoffet, da fra havet spesielt. Man er avhengig av tilstrekkelige konsentrasjoner av P2O5 i bergarten for at den skal være utvinnbar. 80% av verdens fosfatsteinproduksjon kommer fra marine sedimenter med et P2O5 innhold rundt 30-35% (Walan, Davidsson et al. 2014). Magmatiske forekomster har en betydelig lavere konsentrasjon på rundt 5% men kan gjennom anrikning økes til rundt 30-40%. Det er også betydelig dyrere å drive en gruve i en magmatisk bergart enn i store dagbrudd i en sedimenter bergart. Merkelig nok går det rundt (Hydro 2016). Fordelen med de magmatiske bergartene er derimot at de inneholder mindre forurensninger (radioaktivitet) og tungmetaller (Walan, Davidsson et al. 2014). Fordelingen av fosfatstein er også kraftig
 
@@ -53,7 +53,7 @@ Hubberts modell har siden blitt brukt til å estimere andre begrensede ressurser
 
 mange forskjellige estimater på når peak vil inntreffe og når vi vil gå tomme. Ikke så ille kan man kanskje tenke, men tallene spriker voldsomt som tabellen fra (Walan, Davidsson et al. 2014) viser.
 
-<img src="{{site.github.url}}/assets/Når tar fosfor slutt.PNG", alt ="bilde av fosforproduksjon" style= "margin: 20px;" align="middle">
+<!-- <img src="{{site.github.url}}/assets/Når tar fosfor slutt.PNG", alt ="bilde av fosforproduksjon" style= "margin: 20px;" align="middle"> -->
 
 Det kanskje mest iøyenfallende med tabellen er hvordan de forskjellige rapportene baserer seg på forskjellige reserveestimater. De spriker fra 2 til 72.6 Gt. Grunnen til dette er flerdelt.
 
@@ -62,7 +62,7 @@ Det kanskje mest iøyenfallende med tabellen er hvordan de forskjellige rapporte
 
 Det er USGS (United States Geological Survey) som samler inn informasjon over verdens fosfatreserver, men det er knyttet stor usikkerhet til estimatene. URR estimatene som blir brukt til å binde kurven i Hubberts modell består av det som allerede er tatt ut av fosfat stein samt det som fremtidig vil bli tatt ut (RRR – Remaining Recoverable Resources). Hva fremtiden vil bringe er usikkert og det er mange spørsmål rettet rundt estimatet av RRR. USGS definerer en ressurs som en konsentrasjon av mineraler som i form og mengde at økonomisk utvinning er potensielt mulig. En reserve er den delen av en ressurs som i dagens marked kan utvinnes økonomisk. Dette er vanskelige størrelser å definere men per 2013
 
-<img src="{{site.github.url}}/assets/Fosfatstein_reserver.PNG", alt ="bilde av fosforproduksjon" style="float: right; width: 500px; height: auto; margin: 20px;">
+<!-- <img src="{{site.github.url}}/assets/Fosfatstein_reserver.PNG", alt ="bilde av fosforproduksjon" style="float: right; width: 500px; height: auto; margin: 20px;"> -->
 
 
 estimerer USGS at det finnes 300 Gt fosfatstein hvor 67Gt er regnet som reserve (Walan, Davidsson et al. 2014). Men det er knyttet mange usikkerheter til disse tallene. Gruveselskaper har ofte en begrenset interesse av å offentliggjøre sine reserver, Kina rapporterer ikke inn mindre gruver, Marokkos reserver er muligens dårlig utforsket. En annen feilkilde er at fosfatstein og fosfatkonsentrat blir rapportert inn litt om hverandre. Det er heller ikke gjort noen undersøkelser på hva som finnes av fosfatstein ressurser under havet. Noe som kan bli gjeldende i fremtiden om landlige reserver skulle gå tomme. Annen kritikk av estimatene går på at tallene ikke oppdateres. Gruver som har blitt drevet i mange år endrer ikke sine fosfatreserver. Et godt eksempel på hvor flyktige estimatene er kan illustreres på forskjellene mellom 2010 og 2011 etter at Marokko kraftig oppdaterte sine reserve estimater (Walan, Davidsson et al. 2014).
@@ -81,13 +81,13 @@ og Gompertz kurven.
 
 Forskjellen mellom disse to kurvene er når topppunktet nås. Den logistiske kurven når et toppunkt når URR når 50% mens Gompertz funksjonen når toppunktet når 37,5% av URR er brukt opp. Av erfaring passer den logisktiske kurven best på et fritt marked scenario, mens Gompertz passer best for et mer restriktivt marked.
 
-<img src="{{site.github.url}}/assets/Un aggregatet peak.PNG", alt ="bilde av fosforproduksjon" style="margin: 20px;" align="middle">
+<!-- <img src="{{site.github.url}}/assets/Un aggregatet peak.PNG", alt ="bilde av fosforproduksjon" style="margin: 20px;" align="middle"> -->
 
 
 
 Kurvene er bundet med forskjellige URR verdier (les bildetekst). Det er verdt å merke seg den enorme toppen den logistiske kurven gir med det høye URR estimatet. Rapporten gjør også en uaggregert fremstilling hvor man kan se bidraget fra de største produsentene.
 
-<img src="{{site.github.url}}/assets/Aggregatet peak.PNG", alt ="bilde av fosforproduksjon" style="margin: 20px;" align="middle">
+<!-- <img src="{{site.github.url}}/assets/Aggregatet peak.PNG", alt ="bilde av fosforproduksjon" style="margin: 20px;" align="middle"> -->
 
 <h3>DISKUSJON RUNDT KURVENE</h3>
 
