@@ -4,14 +4,14 @@ layout: default
 
 <!-- POSTS.html -->
 
-<h3> Fosforbloggens innlegg: </h3>
+<h1 style="text-align: center;"><b> Fosforbloggens innlegg: </b></h1>
 
 {% for post in site.posts %}
-<div class="w3-row">
+<div class="w3-row w3-margin-8">
 	<div class="w3-col w3-container m4 l3">
-		<img src="{{site.github.url}}/assets/{{post.fremsidebilde}}" alt="Eutrofiering" style="height: auto; width: 200px;">
+		<img src="{{site.github.url}}/assets/{{post.fremsidebilde}}" alt="Eutrofiering" style="height: auto; width: 300px;">
 	</div>
-	<div class="w3-col w3-container m8 l9">  
+	<div class="w3-col w3-container m l9">  
 		<a href="{{site.github.url}}{{post.url}}" style="text-decoration: none;">
 			<h3><b>{{post.title}}</b></h3></a>
 			<h3>{{post.description}}  <span class="w3-opacity">{{post.dato}}</span></h3>
