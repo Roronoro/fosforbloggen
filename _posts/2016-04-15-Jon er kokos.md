@@ -7,7 +7,7 @@ source: EiT landsbyen
 category: innlegg
 comments: true
 fremsidebilde: NHL.jpg
-dato: April 15, 2016
+dato: April 10, 2016
 ingress: Hvordan håndtere ”peak phosphorus” At vi en dag må håndtere ”peak”, er noe som er uunngåelig og sikkert. Vi bruker nemlig opp de lettutvinnelige reservene i stadig økende tempo, samtidig som at det å gå tom ville fått katastrofale konsekvenser for den globale matproduksjonen. Utgangspunktet for håndteringen er spesiell i og med at det spesifikt overordnede ansvaret for fosfor på globalt plan er noe uklart. Konteksten for håndteringen er komplisert, og omfatter hvert enkelt individ på kloden. Spesielt viktige aktører er likevel hver enkelt nasjon, media og diverse organisasjoner som setter søkelyset på ”peak”.
 author: Kokosjon
 category: fosfor

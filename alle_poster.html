@@ -4,16 +4,18 @@ layout: default
 
 <!-- POSTS.html -->
 
-<div class="w3-row">
 <h3> Fosforbloggens innlegg: </h3>
 
-<ul class="w3-ul">
 {% for post in site.posts %}
-	<li><div class="w3-container" style="padding: 20px;">
+<div class="w3-row">
+	<div class="w3-col w3-container m4 l3">
+		<img src="{{site.github.url}}/assets/{{post.fremsidebilde}}" alt="Eutrofiering" style="height: auto; width: 200px;">
+	</div>
+	<div class="w3-col w3-container m8 l9">  
 		<a href="{{site.github.url}}{{post.url}}" style="text-decoration: none;">
-		<h3><b>{{post.title}}</b></h3></a>
-		<h3>{{post.description}}, <span class="w3-opacity">{{post.dato}}</span></h3>
-	</div></li>
-{% endfor %}
-</ul>
+			<h3><b>{{post.title}}</b></h3></a>
+			<h3>{{post.description}}  <span class="w3-opacity">{{post.dato}}</span></h3>
+	</div>
+	</li>
 </div>
+{% endfor %}

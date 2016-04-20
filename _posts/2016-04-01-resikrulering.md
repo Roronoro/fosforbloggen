@@ -7,8 +7,8 @@ source: EiT landsbyen
 category: innlegg
 comments: true
 fremsidebilde: dass.JPG
-dato: April 15, 2016
-author: Martin Hovda Haugsand
+dato: April 1, 2016
+author: Kokosjon
 category: fosfor
 ingress: En dag vil altså som kjent produksjonen av fosfor bli tatt igjen av etterspørselen.Det er dette vi kaller ”peak”. Derfra kan vi forvente økte matpriser, lavere matsikkerhet og større global skjevfordeling. De lettutvinnbare ressursene er i tillegg ikkefornybare, som gjør et uforberedt møte til ”peak” potensielt katastrofalt. Vi snakker her om forskjellene mellom en myk eller hard ”landing”, der gjenvinning og effektivt bruk er viktige forutsetninger for en myk landing.
 ---
