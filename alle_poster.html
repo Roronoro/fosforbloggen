@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<!-- POSTS.html -->
+
+<div class="w3-row">
+<h3> Fosforbloggens innlegg: </h3>
+
+<ul class="w3-ul">
+{% for post in site.posts %}
+	<li><div class="w3-container" style="padding: 20px;">
+		<a href="{{site.github.url}}{{post.url}}" style="text-decoration: none;">
+		<h3><b>{{post.title}}</b></h3></a>
+		<h3>{{post.description}}, <span class="w3-opacity">{{post.dato}}</span></h3>
+	</div></li>
+{% endfor %}
+</ul>
+</div>
