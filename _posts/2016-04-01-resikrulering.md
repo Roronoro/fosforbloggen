@@ -10,7 +10,7 @@ fremsidebilde: dass.JPG
 dato: April 15, 2016
 author: Martin Hovda Haugsand
 category: fosfor
-ingress:En dag vil altså som kjent produksjonen av fosfor bli tatt igjen av etterspørselen.Det er dette vi kaller ”peak”. Derfra kan vi forvente økte matpriser, lavere matsikkerhet og større global skjevfordeling. De lettutvinnbare ressursene er i tillegg ikkefornybare, som gjør et uforberedt møte til ”peak” potensielt katastrofalt. Vi snakker her om forskjellene mellom en myk eller hard ”landing”, der gjenvinning og effektivt bruk er viktige forutsetninger for en myk landing.
+ingress: En dag vil altså som kjent produksjonen av fosfor bli tatt igjen av etterspørselen.Det er dette vi kaller ”peak”. Derfra kan vi forvente økte matpriser, lavere matsikkerhet og større global skjevfordeling. De lettutvinnbare ressursene er i tillegg ikkefornybare, som gjør et uforberedt møte til ”peak” potensielt katastrofalt. Vi snakker her om forskjellene mellom en myk eller hard ”landing”, der gjenvinning og effektivt bruk er viktige forutsetninger for en myk landing.
 ---
 
 <style type="text/css">
@@ -41,7 +41,7 @@ Ved å se på den totale fosforsyklusen er det veldig enkelt å se hvor det stø
 
 Hamiltons forskning står i stil til Landbruksdirektoratets anbefalinger. De erkjenner fosfor som en kritisk ressurs, og ser et stort potensiale i landbruket.
 
-<img src="{{site.github.url}}/assets/risiko.png", alt ="Rammeverk av risikohåndtering" style= "margin: 20px; height: 500px; width: auto" align="middle">
+<img src="{{site.github.url}}/assets/resirkulering.png", alt ="Resirkulering av fosfor" style= "margin: 20px; height: 500px; width: auto" align="middle">
 
 
 Figur: Viser fosforsyklusen på nasjonalt plan i Norge.(Hamilton 2015)

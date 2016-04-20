@@ -1,4 +1,39 @@
-<style type="text/css">
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fosforbloggen</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="/public/css/w3css.css">
+	<style>
+	html,body,h1,h2,h3,h4,h5 { font-family: "Raleway, sans-serif}
+	</style>
+</head>
+<body class="w3-ligth-grey">
+<div class="w3-content" style="max-width: 1400px; padding: 20px;">
+
+<!-- HEADER -->
+<header>
+<div class="w3-container w3-center w3-padding-hor-32"> 
+  <a href="/index.html" style="text-decoration: none;"><h1><b>Fosforbloggen</b></h1></a>
+  <p>Velkommen til EiT bloggen om fosfor <span class="w3-tag"> av Gruppe 1</span></p>
+  <div class="w3-padding-hor-8">
+<ul class="w3-navbar w3-black">
+    <li><a href="/" class="">Forside</a></li>
+    <li><a href="/alle_poster" class="">Poster</a></li>
+    <li><a href="/om_oss" class="">Om oss</a></li>
+    <li><a href=""></a></li>
+</ul>
+</div>
+
+
+</div>
+</header>
+
+
+<div class="w3-row">
+	<div class="w3-col 18 s12" style="padding: 20px;">
+
+		<style type="text/css">
     h1 {text-align: center;}
     h3 {text-align: center;}
     h5 {text-align: center;}
@@ -26,7 +61,7 @@
 
 <p>Hamiltons forskning står i stil til Landbruksdirektoratets anbefalinger. De erkjenner fosfor som en kritisk ressurs, og ser et stort potensiale i landbruket.</p>
 
-<p><img src="/assets/risiko.png", alt ="Rammeverk av risikohåndtering" style= "margin: 20px; height: 500px; width: auto" align="middle"></p>
+<p><img src="/assets/resirkulering.png", alt ="Resirkulering av fosfor" style= "margin: 20px; height: 500px; width: auto" align="middle"></p>
 
 <p>Figur: Viser fosforsyklusen på nasjonalt plan i Norge.(Hamilton 2015)</p>
 
@@ -51,3 +86,41 @@
 <h3>Referanser</h3>
 
 <p><a href="http://forskning.no/mat-klima/2015/03/gjenvinner-fosfor-fra-studentbaesjstudentenes-kloakkfra-skade-i-vann-til-nytte-pa"><p>http://forskning.no/mat-klima/2015/03/gjenvinner-fosfor-fra-studentbaesjstudentenes-kloakkfra-skade-i-vann-til-nytte-pa&quot;/p&gt;</a></p>
+
+	</div>
+</div>
+
+<!-- ADDING DISQUS -->
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//fosforet.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+<!-- FOOTER -->
+<footer class="w3-container w3-dark-grey w3-padding-hor-32 w3-margin-top ">
+<p>Denne siden er laget av: Martin Hovda Haugsand</p>
+</footer>
+
+
+</body>
+</html>
