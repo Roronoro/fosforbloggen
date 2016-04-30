@@ -6,7 +6,7 @@ meta: Risikohåndtering
 source: EiT landsbyen
 category: innlegg
 comments: true
-fremsidebilde: solceller.jpg
+fremsidebilde: Gjodsel_solcelle.png
 dato: April 10, 2016
 ingress: Fosforbloggen skal som navnet tilsier handle om fosfor, og da er det viktig å gi en liten innføring i hva fosfor er, hva det brukes til, og hvor det finnes. Visste du for eksempel at fosfor er en ugjenvinnbar ressurs som verdens matproduksjon er helt avhengig av, og at denne ressursen er konsentrert i veldig få land?
 author: StineLine
