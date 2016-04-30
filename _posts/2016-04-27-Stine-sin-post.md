@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Risikohåndtering og peak fosfor.
-description: Risikocaset fosfor
+title: En innføring i fosfor
+description: Fosfor som ressurs
 meta: Risikohåndtering
 source: EiT landsbyen
 category: innlegg
