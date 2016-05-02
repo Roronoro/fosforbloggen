@@ -29,7 +29,7 @@ category: fosfor
 
 Fosfor er et grunnstoff med kjemisk symbol P og atomnummer 15 i det periodiske system. Det befinner seg i samme gruppe som blant annet nitrogen, arsen og antimon, og er svært reaktivt. Høy reaktivitet gjør at fosfor ikke finnes som et rent element i naturen, og er derfor bundet i kjemiske forbindelser. Det meste av fosfor er bundet i fosfater, hvor størstedelen er den magmatiske bergarten apatitt, og dernest den sedimentære bergarten francolitt. 
 
-<img src="{{site.github.url}}/assets/Periodesystemet_fosfor.png", alt ="Bilde av fosforproduksjon" style= "margin: 20px; height: 500px; width: auto" align="middle": .center-image >
+<img src="{{site.github.url}}/assets/Periodesystemet_fosfor.png",: .center-image alt ="Bilde av fosforproduksjon" style= "margin: 20px; height: 500px; width: auto" align="middle">
 
 Grunnen til at fosfor er en så viktig ressurs er dets oppgave som byggestein for alt organisk liv. Fosfor finnes for eksempel bundet med kalsium i skjelett og tenner, i DNA, fosfolipider i cellemembranen og i ATP som er viktig i metabolismen. Visste du at et menneske på 70 kg inneholder ca. 840g fosfor, og hvor ca. 80% er bundet i skjelettet? Det er derfor viktig at man får i seg nok fosfor i løpet av en dag, og mengden som trengs er avhengig av kroppsstørrelse og om du er gravid eller ammende, mens en normal voksen person er anbefalt å ha et dagsinntak på ca. 600 mg. Å få i seg nok fosfor er vanligvis ikke et problem, og det er svært sjeldent at noen lider av fosformangel. Grunnen er at de aller fleste matvarer inneholder fosfor, men hvor enkelte matvarer inneholder mer enn andre. Matvarer med høyt fosforinnhold er f.eks. rødt kjøtt, ost og melk, havregryn og erter. [helsedirektoratet]  
  
