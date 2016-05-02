@@ -60,7 +60,7 @@ Visste du at Coca Cola tilsetter fosforsyre til sine cola-produkter? Det er dett
  
 Verdens fosfatreserver er konsentrert i svært få land, hvor det er anslått at Marokko og Vest-Sahara har hele 75% av verdens reserver. Resten av reservene befinner seg stort sett i Kina, Nord-Afrika, Midt-Østen og USA. Totalt er det anslått at verdens fosfatreserver er på ca. 67 000 millioner tonn (Mt), men det er vanskelig å estimere nøyaktig størrelse på reservene, da det fortsatt kan finnes uoppdagede reserver, sammen med at landene som har reserver ikke oppgir nøyaktig mengde. 
 
- <img src="{{site.github.url}}/assets/Fosfatstein_reserver.png", alt ="Tabell over verdens fosfatproduksjon." style="float:right; margin: 20px; width: 500px; height: auto;">
+ <img src="{{site.github.url}}/assets/Fosfatreserver_2014.png", alt ="Tabell over verdens fosfatproduksjon." style="float:right; margin: 20px; width: 500px; height: auto;">
  
 Den største produksjonen er det derimot Kina som står for med 100 millioner tonn utvunnet i 2014, etterfulgt av Marokko og Vest-Sahara med 30 Mt og USA med 27,1 Mt. Det er anslått at USA bare har 2% av verdens reserver, og som man kan se på søylediagrammet under har produksjonen av fosfat begynt å synke, dette er på grunn av at mesteparten av lett utvinnelig fosfatstein er blitt minet ut. Marokko har derfor tatt igjen USA på produksjonssiden, og vil dermed ha større innflytelse på verdensmarkedet fremover.  
 
