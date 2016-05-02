@@ -56,7 +56,7 @@ Visste du at Coca Cola tilsetter fosforsyre til sine cola-produkter? Det er dett
  
   
 <h3>Hvor finnes fosfatreservene? </h3>
- <img src="{{site.github.url}}/assets/Verdenskart.png", alt ="Verdens fosfatreserver" style= "margin: 20px; height: 500px; width: auto" align="middle"o;"
+ <img src="{{site.github.url}}/assets/Verdenskart.png", alt ="Verdens fosfatreserver" style= "margin: 20px; height: 500px; width: auto" align="middle" >
  
 Verdens fosfatreserver er konsentrert i svært få land, hvor det er anslått at Marokko og Vest-Sahara har hele 75% av verdens reserver. Resten av reservene befinner seg stort sett i Kina, Nord-Afrika, Midt-Østen og USA. Totalt er det anslått at verdens fosfatreserver er på ca. 67 000 millioner tonn (Mt), men det er vanskelig å estimere nøyaktig størrelse på reservene, da det fortsatt kan finnes uoppdagede reserver, sammen med at landene som har reserver ikke oppgir nøyaktig mengde. 
 
