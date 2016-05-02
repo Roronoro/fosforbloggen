@@ -2,7 +2,7 @@
 layout: post
 title: En innføring i fosfor
 description: Fosfor som ressurs
-meta: Risikohåndtering
+meta: Fosofor
 source: EiT landsbyen
 category: innlegg
 comments: true
