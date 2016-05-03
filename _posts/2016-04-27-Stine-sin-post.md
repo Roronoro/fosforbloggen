@@ -59,15 +59,15 @@ Fosfor brukes også til mange andre ting, som fyrstikkproduksjon, hvor strykefla
 
   
 <h3>Hvor finnes fosfatreservene? </h3>
- <img src="{{site.github.url}}/assets/Verdenskart.png", alt ="Verdens fosfatreserver" style= "margin: 20px; height: 500px; width: auto" align="middle" >
+ <img src="{{site.github.url}}/assets/Verdenskart.png", alt ="Verdens fosfatreserver" style= "margin: 20px; height: 400px; width: auto" align="middle" >
  
 Verdens fosfatreserver er konsentrert i svært få land, hvor det er anslått at Marokko og Vest-Sahara har hele 75% av verdens reserver. Resten av reservene befinner seg stort sett i Kina, Nord-Afrika, Midt-Østen og USA. Totalt er det anslått at verdens fosfatreserver er på ca. 67 000 millioner tonn (Mt), men det er vanskelig å estimere nøyaktig størrelse på reservene, da det fortsatt kan finnes uoppdagede reserver, sammen med at landene som har reserver ikke oppgir nøyaktig mengde. 
 
- <img src="{{site.github.url}}/assets/Fosfatreserver_2014.png", alt ="Tabell over verdens fosfatproduksjon." style= "margin: 20px; height: 500px; width: auto" align="middle"">
+ <img src="{{site.github.url}}/assets/Fosfatreserver_2014.png", alt ="Tabell over verdens fosfatproduksjon." style= "margin: 20px; height: 300px; width: auto" align="middle"">
  
 Den største produksjonen er det derimot Kina som står for med 100 millioner tonn utvunnet i 2014, etterfulgt av Marokko og Vest-Sahara med 30 Mt og USA med 27,1 Mt. Det er anslått at USA bare har 2% av verdens reserver, og som man kan se på søylediagrammet under har produksjonen av fosfat begynt å synke, dette er på grunn av at mesteparten av lett utvinnelig fosfatstein er blitt minet ut. Marokko har derfor tatt igjen USA på produksjonssiden, og vil dermed ha større innflytelse på verdensmarkedet fremover.  
 
-  <img src="{{site.github.url}}/assets/Fosfatproduksjon.png", alt ="Tabell over verdens fosfatreserver." style= "margin: 20px; height: 500px; width: auto" align="middle"">
+  <img src="{{site.github.url}}/assets/Fosfatproduksjon.png", alt ="Tabell over verdens fosfatreserver." style= "margin: 20px; height: 350px; width: auto" align="middle"">
   
 <h4>Verdens fosfatressurser </h4>
 Selv om reservene er estimert til å være ca. 67 000 Mt i 2014, er det blitt identifisert store fosfatressurser på kontinentalplatene og på undersjøiske fjell i atlanterhavet og stillehavet. Det er også planlagt å starte mudring av forekomster utenfor Namibia og New Zealand før år 2020, og det er dermed antatt at verdens fosfatressurser er på så mye som 300 milliarder tonn.[usgs.gov]
@@ -82,8 +82,6 @@ Hvordan landene og bedriftene i landene rundt omkring i verden løser dette prob
 
 <h4>Kina: høy- og lav-tariffsesong</h4>  
 Kina er for eksempel et land med tilgang på egne fosfatreserver, men de er begrenset, og har derfor restriksjoner på eksport til andre land. I senere år har eksporten av fosfatgjødsel og fosforsyre likevel tatt seg opp, da produksjonen i landet er større enn etterspørselen slik at konkurransen er liten, og restriksjonene i landet har dermed blitt lempet på. Eksport-tariffen er her delt inn i en høy-tariff sesong og en lav-tariffsesong som bestemmer hvor mye produsentene har lov til å selge til andre land i denne perioden. Dette gjør at produsentene i Kina ikke alltid har mulighet til å etterkomme etterspørselen fra andre land, da landene har egne sesonger hvor behovet for import er størst. For å gjøre det lettere for produsentene å etterkomme markedet ble det i desember 2015 vedtatt av kinesiske myndigheter en ny eksport-tariff som utvider muligheten til å eksportere, og dermed øke konkurransen i innenlandsmarkedet. 
- 
- http://eshare.cnchemicals.com/publishing/home/2015/12/30/2036/china-new-tariff-policy-to-boost-exports-of-phosphorus-ore-and-phosphoric-acid-in-2016.html  
   
 <h4>Marokko: Skal bli verdensledende</h4>  
 Marokko som har de desidert største fosfat-reservene, har i lengre tid vært verdens største eksportør av fosfat, men har først nå tatt over tronen til å være den største produsenten. Med dette vil de kunne påvirke markedet og markedsprisene i mye større grad, og dermed få mer makt i verdenssammenheng samt tjene mer. I fremtiden er det anslått at Marokko vil være den som styrer verdensmarkedet av fosfat, og på den måten prøver andre land å sikre seg et samarbeid med Marokko. Spesielt EU og USA er sterkt avhengig av å forhandle med Marokko, og de prøver å skape en vinn-vinn situasjon mellom statene. 
