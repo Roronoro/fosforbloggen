@@ -50,9 +50,10 @@ Innenfor teknologien brukes også fosfor som negativ dopant i halvledere, og der
  
 Et annet viktig bruksområde er vaskemidler, da natriumtrifosfat har vist seg å øke vaskeeffekten, spesielt der det er hardt vann. Hardt vann vil si at vannet inneholder mye kalsium- og magnesiumioner som kan danne tungt løselige salter som kan avsettes på tøyet. Natriumtrifosfat hjelper ved at det danner lett løselige salter med kalsium og magnesium. Mengden fosfor brukt til dette formålet har blitt redusert de senere årene, da fosfor i vannmiljøet har ført til eutrofiering av ferskvann flere steder.  
 
-Andre bruksområder som du kanskje ikke 
-Fosfor brukes også i fyrstikkproduksjon, hvor strykeflaten til fyrstikkene har små mengder rødt fosfor blandet sammen med knust glass.  
-Visste du at Coca Cola tilsetter fosforsyre til sine cola-produkter? Det er dette som gir cola den karakteriske syrligheten? 
+Fosfor brukes også til mange andre ting, som fyrstikkproduksjon, hvor strykeflaten til fyrstikkene har små mengder rødt fosfor blandet sammen med knust glass.  
+
+<em> Men visste du at Coca Cola tilsetter fosforsyre til sine cola-produkter? Det er dette som gir cola den karakteriske syrligheten? </em> 
+
  
   
 <h3>Hvor finnes fosfatreservene? </h3>
@@ -74,15 +75,15 @@ Grunnen til at tilgangen fra enkelte av disse landene er usikre, er samarbeidet 
 Marokko okkuperte territoriet Vest-Sahara i 1975, som førte til en guerrilla-krig med lokale styrker inntil våpenhvile i 1991. Etter dette har ikke fredsforhandlingene før noen vei, og er fortsatt i en politisk deadlock.   
 Konsekvensene av dette? Hva gjør land og bedrifter for å sikre seg nok fosfor i fremtiden?  
 
-<h3>Hva gjør land og bedrifter for å sikre seg nok fosfor?</h3>  
-Hvordan landene og bedriftene i landene rundt omkring I verden løser dette problemet er ulikt. De landene som har egne fosforreserver står i en posisjon der hvor de må tenke på hvor mye de har mulighet til å selge til andre land uten å gå tom selv, og fortjenesten av dette. Om landene for eksempel regulerer markedet slik at tilgangen på fosfor blir mindre, og prisene øker, vil disse landene kunne tjene mye på dette. Samtidig er mange av disse landene avhengig av å kunne forhandle til seg andre råvarer og tjenester som de ikke har tilgang på selv. Ved å nekte tilgangen på fosfor til andre land, vil de også kunne komme i en situasjon hvor disse landene ikke vil selge sine råvarer, eller nekte å kjøpe andre varer fra dette landet. En handelsblokade som man har sett mellom USA og Cuba. 
+<h3>Hvordan sikrer land og bedrifter seg nok fosfor?</h3>  
+Hvordan landene og bedriftene i landene rundt omkring i verden løser dette problemet er ulikt. De landene som har egne fosforreserver står i en posisjon der hvor de må tenke på hvor mye de har mulighet til å selge til andre land uten å gå tom selv, og fortjenesten av dette. Om landene for eksempel regulerer markedet slik at tilgangen på fosfor blir mindre, og prisene øker, vil disse landene kunne tjene mye på dette. Samtidig er mange av disse landene avhengig av å kunne forhandle til seg andre råvarer og tjenester som de ikke har tilgang på selv. Ved å nekte tilgangen på fosfor til andre land, vil de også kunne komme i en situasjon hvor disse landene ikke vil selge sine råvarer, eller nekte å kjøpe andre varer fra dette landet. En handelsblokade som man har sett mellom USA og Cuba. 
 
 <h4>Kina: høy- og lav-tariffsesong</h4>  
 Kina er for eksempel et land med tilgang på egne fosfatreserver, men de er begrenset, og har derfor restriksjoner på eksport til andre land. I senere år har eksporten av fosfatgjødsel og fosforsyre likevel tatt seg opp, da produksjonen i landet er større enn etterspørselen slik at konkurransen er liten, og restriksjonene i landet har dermed blitt lempet på. Eksport-tariffen er her delt inn i en høy-tariff sesong og en lav-tariffsesong som bestemmer hvor mye produsentene har lov til å selge til andre land i denne perioden. Dette gjør at produsentene i Kina ikke alltid har mulighet til å etterkomme etterspørselen fra andre land, da landene har egne sesonger hvor behovet for import er størst. For å gjøre det lettere for produsentene å etterkomme markedet ble det i desember 2015 vedtatt av kinesiske myndigheter en ny eksport-tariff som utvider muligheten til å eksportere, og dermed øke konkurransen i innenlandsmarkedet. 
  
  http://eshare.cnchemicals.com/publishing/home/2015/12/30/2036/china-new-tariff-policy-to-boost-exports-of-phosphorus-ore-and-phosphoric-acid-in-2016.html  
   
-<h4>Marokko: Skal vi verdensledende</h4>  
+<h4>Marokko: Skal bli verdensledende</h4>  
 Marokko som har de desidert største fosfat-reservene, har i lengre tid vært verdens største eksportør av fosfat, men har først nå tatt over tronen til å være den største produsenten. Med dette vil de kunne påvirke markedet og markedsprisene i mye større grad, og dermed få mer makt i verdenssammenheng samt tjene mer. I fremtiden er det anslått at Marokko vil være den som styrer verdensmarkedet av fosfat, og på den måten prøver andre land å sikre seg et samarbeid med Marokko. Spesielt EU og USA er sterkt avhengig av å forhandle med Marokko, og de prøver å skape en vinn-vinn situasjon mellom statene. 
 
 <h4>USA: Begynner å gå tom</h4>  
@@ -97,17 +98,22 @@ Men etter at dokumenter knyttet til lekkasjene fra Mossack Fonseca, også kalt �
 
 
 <h3>Kilder</h3>
- http://www.coca-cola.co.uk/faq/ingredients/why-is-phosphoric-acid-used-in-coca-cola-drinks-diet-coke-coke-zero/ 
- 
- http://sciencenotes.org/printable-periodic-table/ 
- 
- https://snl.no/fosfor 
- 
-http://www.extension.umn.edu/agriculture/nutrient-management/phosphorus/the-nature-of-phosphorus/ 
-  
-https://helsedirektoratet.no/Lists/Publikasjoner/Attachments/806/Anbefalinger-om-kosthold-ernering-og-fysisk-aktivitet-IS-2170.pdf 
+[1]	https://snl.no/fosfor 
 
-http://www.nrk.no/norge/aftenposten_-yara-betalte-millioner-i-bestikkelser-1.12888471  
-  
-http://minerals.usgs.gov/minerals/pubs/commodity/phosphate_rock/mcs-2015-phosp.pdf 
+[2]	http://www.extension.umn.edu/agriculture/nutrient-management/phosphorus/the-nature-of-phosphorus/ 
+
+[3]	https://helsedirektoratet.no/Lists/Publikasjoner/Attachments/806/Anbefalinger-om-kosthold-ernering-og-fysisk-aktivitet-IS-2170.pdf 
+
+[4]	http://www.coca-cola.co.uk/faq/ingredients/why-is-phosphoric-acid-used-in-coca-cola-drinks-diet-coke-coke-zero/ 
+
+[5]	http://www.yara.no/gjodsel/Tools-and-Services/gjodselaktuelt/gjodselaktuelt-2015-1/her-lages-fremtidens-gjodsel.aspx
+
+[6]	http://www.nrk.no/norge/aftenposten_-yara-betalte-millioner-i-bestikkelser-1.12888471  
+
+[7]	http://minerals.usgs.gov/minerals/pubs/commodity/phosphate_rock/mcs-2015-phosp.pdf 
+
+[8]	https://no.wikipedia.org/wiki/Vest-Sahara
+
+[9]	http://eshare.cnchemicals.com/publishing/home/2015/12/30/2036/china-new-tariff-policy-to-boost-exports-of-phosphorus-ore-and-phos	phoric-acid-in-2016.html  
+
   
