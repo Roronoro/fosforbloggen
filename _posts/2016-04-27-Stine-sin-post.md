@@ -52,9 +52,11 @@ Et annet viktig bruksområde er vaskemidler, da natriumtrifosfat har vist seg å
 
 Fosfor brukes også til mange andre ting, som fyrstikkproduksjon, hvor strykeflaten til fyrstikkene har små mengder rødt fosfor blandet sammen med knust glass.  
 
+
 <em> Men visste du at Coca Cola tilsetter fosforsyre til sine cola-produkter? Det er dette som gir cola den karakteriske syrligheten? </em> 
 
  
+
   
 <h3>Hvor finnes fosfatreservene? </h3>
  <img src="{{site.github.url}}/assets/Verdenskart.png", alt ="Verdens fosfatreserver" style= "margin: 20px; height: 500px; width: auto" align="middle" >
