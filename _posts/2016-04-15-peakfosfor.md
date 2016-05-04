@@ -1,6 +1,6 @@
 ---
 layout: post
-title: peak fosfor
+title: Peak fosfor
 description: Går fosfor ut idag eller imorgen?
 meta: En enkel innføring om peak fosfor og ressursestimering.
 source: EiT landsbyen
@@ -18,7 +18,15 @@ ingress: Det er et mål i vårt samfunn at alle skal ha muligheten til å være 
 	h3 {text-align: center;}
 	h5 {text-align: center;}
 	h6 {text-align: center;}
-	p {font-size: 125%}
+	p {font-size: 115%}
+	img.sentrert {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		padding:20px;
+		width: 100%;
+		height: auto;
+	}
 </style>
 
 <h1>ESTIMERING AV UFORNYBARE RESSURSER</h1>
@@ -35,7 +43,7 @@ Det er et mål i vårt samfunn at alle skal ha muligheten til å være helter. D
 Kineserne var de første til å bruke menneskelige ekskrementer som gjødsel (Cordell, Drangert et al. 2009) japanerne fulgte etter fra det tolvte århundre. I Europa på 16 og 1700 tallet førte degradering av jordsmonnet og stadige hungersnøder til at det ble brukt andre fosforkilder i tillegg til møkk fra mennesker og dyr. England importerte blant annet beinrester fra kontinentet (Cordell, Drangert et al. 2009). I 1840 ble det vitenskapelig forstått at næringsstoffer som nitrogen, fosfor og kalium var hva som sirkulerte mellom dødt og levende materiale. Dette var på samme tid som det skjedde stor urbanisering med gjødselfabrikker omkringliggende byene for å omgjøre menneskelige ekskrementer og annet organisk avfall om til gjødsel. Man begynte etter hvert å utvinne gjødsel fra guana, en forstenet form for fugleskit fra øyer rundt Peru og Sør-stillehavet (Cordell, Drangert et al. 2009). På 1900 tallet ble det utviklet metoder for å lage NPK gjødsel fra fosfatstein. Dette er hovedsakelig ulike former for apatitt (fosforitt). Ressursen ble da sett på som uendelig.
 
 
-<img src="{{site.github.url}}/assets/Produksjon.PNG", alt ="bilde av fosforproduksjon" style="float:right; margin: 20px; width: 500px; height: auto;">
+<img class="sentrert" src="{{site.github.url}}/assets/Produksjon.PNG" alt ="bilde av fosforproduksjon" style="float:right; margin: 20px; width: 500px; height: auto;">
 
 Apatitt forekommer i små mengder i de fleste bergarter (SNL). Fosfor er regnet som det 11 mest forekomne grunnstoffet i jordskorpen (Walan, Davidsson et al. 2014) og det 13 i havet. Problemet er å utvinne stoffet, da fra havet spesielt. Man er avhengig av tilstrekkelige konsentrasjoner av P2O5 i bergarten for at den skal være utvinnbar. 80% av verdens fosfatsteinproduksjon kommer fra marine sedimenter med et P2O5 innhold rundt 30-35% (Walan, Davidsson et al. 2014). Magmatiske forekomster har en betydelig lavere konsentrasjon på rundt 5% men kan gjennom anrikning økes til rundt 30-40%. Det er også betydelig dyrere å drive en gruve i en magmatisk bergart enn i store dagbrudd i en sedimenter bergart. Merkelig nok går det rundt (Hydro 2016). Fordelen med de magmatiske bergartene er derimot at de inneholder mindre forurensninger (radioaktivitet) og tungmetaller (Walan, Davidsson et al. 2014). Fordelingen av fosfatstein er også kraftig
 
@@ -53,7 +61,7 @@ Hubberts modell har siden blitt brukt til å estimere andre begrensede ressurser
 
 mange forskjellige estimater på når peak vil inntreffe og når vi vil gå tomme. Ikke så ille kan man kanskje tenke, men tallene spriker voldsomt som tabellen fra (Walan, Davidsson et al. 2014) viser.
 
-<img src="{{site.github.url}}/assets/Når tar fosfor slutt.PNG", alt ="bilde av fosforproduksjon" style= "margin: 20px;" align="middle">
+<img class="sentrert" src="{{site.github.url}}/assets/Når tar fosfor slutt.PNG" alt ="bilde av fosforproduksjon" style="width: auto; height: auto;">
 
 Det kanskje mest iøyenfallende med tabellen er hvordan de forskjellige rapportene baserer seg på forskjellige reserveestimater. De spriker fra 2 til 72.6 Gt. Grunnen til dette er flerdelt.
 
@@ -81,13 +89,13 @@ og Gompertz kurven.
 
 Forskjellen mellom disse to kurvene er når topppunktet nås. Den logistiske kurven når et toppunkt når URR når 50% mens Gompertz funksjonen når toppunktet når 37,5% av URR er brukt opp. Av erfaring passer den logisktiske kurven best på et fritt marked scenario, mens Gompertz passer best for et mer restriktivt marked.
 
-<img src="{{site.github.url}}/assets/Un aggregatet peak.PNG", alt ="bilde av fosforproduksjon" style="margin: 20px;" align="middle">
+<img class="sentrert" src="{{site.github.url}}/assets/Un aggregatet peak.PNG" alt="bilde av fosforproduksjon">
 
 
 
 Kurvene er bundet med forskjellige URR verdier (les bildetekst). Det er verdt å merke seg den enorme toppen den logistiske kurven gir med det høye URR estimatet. Rapporten gjør også en uaggregert fremstilling hvor man kan se bidraget fra de største produsentene.
 
-<img src="{{site.github.url}}/assets/Aggregatet peak.PNG", alt ="bilde av fosforproduksjon" style="margin: 20px;" align="middle">
+<img class="sentrert" src="{{site.github.url}}/assets/Aggregatet peak.PNG" alt="bilde av fosforproduksjon" style="width: 100%; height: auto;">
 
 <h3>DISKUSJON RUNDT KURVENE</h3>
 

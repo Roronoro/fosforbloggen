@@ -1,35 +1,40 @@
 ---
 layout: post
 title: En innføring i fosfor
-description: Fosfor som ressurs
-meta: Fosofor
+description: Hva er fosfor, og hvor finnes det?
+meta: En enkel innføring om fosfor og hvor det finnes.
 source: EiT landsbyen
 category: innlegg
 comments: true
 fremsidebilde: Gjodsel_solcelle.png
 dato: April 10, 2016
-ingress: Fosforbloggen skal som navnet tilsier handle om fosfor, og da er det viktig å gi en liten innføring i hva fosfor er, hva det brukes til, og hvor det finnes. Visste du for eksempel at fosfor er en ugjenvinnbar ressurs som verdens matproduksjon er helt avhengig av, og at denne ressursen er konsentrert i veldig få land?
-author: StineLine
+ingress: Fosforbloggen skal som navnet tilsier handle om fosfor, og da er det viktig å gi en liten innføring i hva fosfor er, hva det brukes til, og hvor det finnes. Visste du for for eksempel at fosfor er en ugjenvinnbar ressurs som verdens matproduksjonen er helt avhengig av, og denne ressursen i tillegg er konsentrert i veldig få land? 
+author: Stine Pettersen Espelien
 category: fosfor
 ---
-
-
-
 
 <style type="text/css">
 	h1 {text-align: center;}
 	h3 {text-align: center;}
 	h5 {text-align: center;}
 	h6 {text-align: center;}
-	h4 {text-align: center;}
-	p {font-size: 112%}
+	p {font-size: 115%}
+	img.sentrert {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		padding:20px;
+		width: 100%;
+		height: auto;
+	}
 </style>
 
 <h1>Fosfor</h1>
 
 Fosfor er et grunnstoff med kjemisk symbol P og atomnummer 15 i det periodiske system. Det befinner seg i samme gruppe som blant annet nitrogen, arsen og antimon, og er svært reaktivt. Høy reaktivitet gjør at fosfor ikke finnes som et rent element i naturen, og er derfor bundet i kjemiske forbindelser. Det meste av fosfor er bundet i fosfater, hvor størstedelen er den magmatiske bergarten apatitt, og dernest den sedimentære bergarten francolitt.[1] 
 
-<img src="{{site.github.url}}/assets/Periodesystemet_fosfor.png",: .center-image alt ="Bilde av fosforproduksjon" style= "margin: 20px; height: 500px; width: auto" align="middle">
+
+<img class="sentrert" src="{{site.github.url}}/assets/Periodesystemet_fosfor.png" alt ="Bilde av fosforproduksjon" style= " height: 500px; width: auto;" >
 
 Grunnen til at fosfor er en så viktig ressurs er dets oppgave som byggestein for alt organisk liv. Fosfor finnes for eksempel bundet med kalsium i skjelett og tenner, i DNA, fosfolipider i cellemembranen og i ATP som er viktig i metabolismen. Visste du at et menneske på 70 kg inneholder ca. 840g fosfor, og hvor ca. 80% er bundet i skjelettet? Det er derfor viktig at man får i seg nok fosfor i løpet av en dag, og mengden som trengs er avhengig av kroppsstørrelse og om du er gravid eller ammende, mens en normal voksen person er anbefalt å ha et dagsinntak på ca. 600 mg. Å få i seg nok fosfor er vanligvis ikke et problem, og det er svært sjeldent at noen lider av fosformangel. Grunnen er at de aller fleste matvarer inneholder fosfor, men hvor enkelte matvarer inneholder mer enn andre. Matvarer med høyt fosforinnhold er f.eks. rødt kjøtt, ost og melk, havregryn og erter. [3]  
  
@@ -55,20 +60,19 @@ Fosfor brukes også til mange andre ting, som fyrstikkproduksjon, hvor strykefla
 
 <em> Men visste du at Coca Cola tilsetter fosforsyre til sine cola-produkter? Det er dette som gir cola den karakteriske syrligheten? </em> [8]
 
- 
+<img class="sentrert" src="{{site.github.url}}/assets/Verdenskart.png" alt ="Bilde av fosforproduksjon" style="height: 400px; width: auto;" >
 
-  
 
- <img src="{{site.github.url}}/assets/Verdenskart.png", alt ="Verdens fosfatreserver" style= "margin: 20px; height: 400px; width: auto" align="middle" >
 <h3>Hvor finnes fosfatreservene? </h3> 
 
 Verdens fosfatreserver er konsentrert i svært få land, hvor det er anslått at Marokko og Vest-Sahara har hele 75% av verdens reserver. Resten av reservene befinner seg stort sett i Kina, Nord-Afrika, Midt-Østen og USA. Totalt er det anslått at verdens fosfatreserver er på ca. 67 000 millioner tonn (Mt), men det er vanskelig å estimere nøyaktig størrelse på reservene, da det fortsatt kan finnes uoppdagede reserver, sammen med at landene som har reserver ikke oppgir nøyaktig mengde.[11] 
 
- <img src="{{site.github.url}}/assets/Fosfatreserver_2014.png", alt ="Tabell over verdens fosfatproduksjon." style= "margin: 20px; height: 300px; width: auto" align="middle"">
+
+<img class="sentrert" src="{{site.github.url}}/assets/Fosfatreserver_2014.png" alt="Tabell over verdens fosfatproduksjon." style="height:300px; width: auto">
  
 Den største produksjonen er det derimot Kina som står for med 100 millioner tonn utvunnet i 2014, etterfulgt av Marokko og Vest-Sahara med 30 Mt og USA med 27,1 Mt. Det er anslått at USA bare har 2% av verdens reserver, og som man kan se på søylediagrammet under har produksjonen av fosfat begynt å synke, dette er på grunn av at mesteparten av lett utvinnelig fosfatstein er blitt minet ut. Marokko har derfor tatt igjen USA på produksjonssiden, og vil dermed ha større innflytelse på verdensmarkedet fremover.[11]  
 
-  <img src="{{site.github.url}}/assets/Fosfatproduksjon.png", alt ="Tabell over verdens fosfatreserver." style= "margin: 20px; height: 350px; width: auto" align="middle"">
+<img class="sentrert" src="{{site.github.url}}/assets/Fosfatproduksjon.png" alt ="Tabell over verdens fosfatreserver." style="height: 350px; width: auto">
   
 <h4>Verdens fosfatressurser </h4>
 Selv om reservene er estimert til å være ca. 67 000 Mt i 2014, er det blitt identifisert store fosfatressurser på kontinentalplatene og på undersjøiske fjell i atlanterhavet og stillehavet. Det er også planlagt å starte mudring av forekomster utenfor Namibia og New Zealand før år 2020, og det er dermed antatt at verdens fosfatressurser er på så mye som 300 milliarder tonn.[11]

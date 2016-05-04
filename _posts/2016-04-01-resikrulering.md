@@ -19,6 +19,14 @@ ingress: En dag vil altså som kjent produksjonen av fosfor bli tatt igjen av et
 	h5 {text-align: center;}
 	h6 {text-align: center;}
 	p {font-size: 115%}
+	img.sentrert {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		padding:20px;
+		width: 100%;
+		height: auto;
+	}
 </style>
 
 <h1>Kan vi utsette ”peak”? </h1>
@@ -39,8 +47,8 @@ Ved å se på den totale fosforsyklusen er det veldig enkelt å se hvor det stø
 
 Hamiltons forskning står i stil til Landbruksdirektoratets anbefalinger. De erkjenner fosfor som en kritisk ressurs, og ser et stort potensiale i landbruket.
 
+<img class="sentrert" src="{{site.github.url}}/assets/resirkulering.png" alt ="Resirkulering av fosfor">
 
-<img src="{{site.github.url}}/assets/resirkulering.png", alt ="Resirkulering av fosfor" style= "margin: 20px; height: 500px; width: auto" align="middle">
 
 Figur: Viser fosforsyklusen på nasjonalt plan i Norge.(Hamilton 2015)
 

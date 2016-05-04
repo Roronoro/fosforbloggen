@@ -19,6 +19,14 @@ category: fosfor
 	h5 {text-align: center;}
 	h6 {text-align: center;}
 	p {font-size: 115%}
+	img.sentrert {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		padding:20px;
+		width: 100%;
+		height: auto;
+	}
 </style>
 
 <h1>Hvordan håndtere ”peak phosphorus”</h1>
@@ -41,7 +49,7 @@ Risikobildet er i større grad tvetydig enn usikkert, i motsetning til tidligere
 
 Innenfor risikohåndtering er det oppgitt en rekke potensielle feil og mangler i håndteringen av en risiko. De er delt inn i to blokker, A- og B-mangler. A tilhører blokken for vurdering av risikoen, mens B omfatter håndteringen av risikoen basert på vurdering. Det er mye som kan gå galt i håndteringen av fosfor, hvor aktuelle mangler listes opp her.
 
-<img src="{{site.github.url}}/assets/risiko.png", alt ="Rammeverk av risikohåndtering" style= "margin: 20px; height: 500px; width: auto" align="middle">
+<img class="sentrert" src="{{site.github.url}}/assets/risiko.png", alt ="Rammeverk av risikohåndtering" style="width: 100%;height: auto;">
 
 Dette er mangler som har forekommet ved håndtering av andre risikoer og ressurser tidligere. Et eksempel på en annen kritikkverdig håndtering av en ressurs, er forvaltningen av torskebestanden utenfor Newfoundland. Feil i matematiske modeller og en rekke mangler i ”cluster B” (management), førte til en nærmest total utryddelse av verdens største torskestamme grunnet overfiske. Konsekvensene ble regionalt katastrofale, og delstaten mistet sin desidert største næring på dagen. Dette kan visuelt sammenlignes med en hard landing innenfor fosfor. Caset fosfor er av en helt annen art, men kan likevel lide av lignende mangelfulle håndteringer.
 

@@ -18,14 +18,22 @@ ingress: I følge FNs World Population Prospects (2015) kommer verdens befo
 	h3 {text-align: center;}
 	h5 {text-align: center;}
 	h6 {text-align: center;}
-	p {font-size: 125%}
+	p {font-size: 115%}
+	img.sentrert {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		padding:20px;
+		width: 100%;
+		height: auto;
+	}
 </style>
 
 <h1>Global matsikkerhet</h1>
 
 I følge FNs World Population Prospects (2015) kommer verdens befolkning til å øke til være rundt 9,7 milliarder i 2050 [1]. I tillegg til at jordkloden skal huse flere mennesker så skal også disse menneskene jevnt over ha en økning i levestandard som blant annet uttrykker seg gjennom en økning i matkonsumet. Figuren under viser gjennomsnittlig kaloriinntak per capita i ulike verdensdeler i 2005/2007 og prognoser for inntaket i de samme regionene i år 2050.
 
-<img src="{{site.github.url}}/assets/perkapitamatkonsum.png", alt ="bilde av fosforproduksjon" style=" margin: 20px; width: 1000px; height: auto;">
+<img class="sentrert" src="{{site.github.url}}/assets/perkapitamatkonsum.png", alt ="bilde av fosforproduksjon" style="width: 1000px; height: auto;">
 
 <p style="text-align: center;">Figur 1: kcal/person/dag[3]</p>
 
